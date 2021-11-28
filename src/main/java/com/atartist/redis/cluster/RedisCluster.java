@@ -23,6 +23,7 @@ public class RedisCluster {
         System.out.println("value = " + value);*/
 
         //cluster.close();
+        // 远程仓库更新
     }
 
 
