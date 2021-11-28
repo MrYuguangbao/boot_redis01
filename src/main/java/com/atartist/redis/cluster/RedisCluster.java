@@ -25,6 +25,7 @@ public class RedisCluster {
         //cluster.close();
         System.out.println("1:" + LocalDateTime.now());
         System.out.println("2:" + LocalDateTime.now());
+        System.out.println("hot-fix-1");
     }
 
 
