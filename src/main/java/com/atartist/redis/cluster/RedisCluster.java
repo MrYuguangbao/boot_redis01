@@ -23,6 +23,7 @@ public class RedisCluster {
         System.out.println("value = " + value);*/
 
         //cluster.close();
+        // 远程仓库更新
         System.out.println("1:" + LocalDateTime.now());
         System.out.println("2:" + LocalDateTime.now());
         System.out.println("hot-fix-1");
