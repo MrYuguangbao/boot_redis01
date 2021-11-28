@@ -23,7 +23,8 @@ public class RedisCluster {
         System.out.println("value = " + value);*/
 
         //cluster.close();
-        System.out.println(LocalDateTime.now());
+        System.out.println("1:" + LocalDateTime.now());
+        System.out.println("2:" + LocalDateTime.now());
     }
 
 
