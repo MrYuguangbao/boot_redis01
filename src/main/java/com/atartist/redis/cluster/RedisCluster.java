@@ -23,6 +23,7 @@ public class RedisCluster {
         System.out.println("value = " + value);*/
 
         //cluster.close();
+        System.out.println("hot-fix-1");
     }
 
 
